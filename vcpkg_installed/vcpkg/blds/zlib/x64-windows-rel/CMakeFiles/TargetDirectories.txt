@@ -1,0 +1,7 @@
+D:/Visual Studio Projects/chemical-market-analyzer/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/zlib.dir
+D:/Visual Studio Projects/chemical-market-analyzer/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/test.dir
+D:/Visual Studio Projects/chemical-market-analyzer/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/edit_cache.dir
+D:/Visual Studio Projects/chemical-market-analyzer/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+D:/Visual Studio Projects/chemical-market-analyzer/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/list_install_components.dir
+D:/Visual Studio Projects/chemical-market-analyzer/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/install.dir
+D:/Visual Studio Projects/chemical-market-analyzer/vcpkg_installed/vcpkg/blds/zlib/x64-windows-rel/CMakeFiles/install/local.dir

@@ -24,7 +24,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.23+b0019275e for .NET Framework
-      Build started 21/09/2025 16:00:37.
+      Build started 21/09/2025 16:31:35.
       
       Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\4.0.0-rc3\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -62,7 +62,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.22
+      Time Elapsed 00:00:01.01
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -88,7 +88,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.23+b0019275e for .NET Framework
-      Build started 21/09/2025 16:00:39.
+      Build started 21/09/2025 16:31:36.
       
       Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\4.0.0-rc3\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -126,7 +126,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:01.00
+      Time Elapsed 00:00:00.97
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -145,8 +145,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-he46u5"
-      binary: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-he46u5"
+      source: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-b96bke"
+      binary: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-b96bke"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
@@ -160,40 +160,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-he46u5'
+        Change Dir: 'D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-b96bke'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_fe039.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_43a18.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.23+b0019275e for .NET Framework
-        Build started 21/09/2025 16:00:41.
+        Build started 21/09/2025 16:31:38.
         
-        Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-he46u5\\cmTC_fe039.vcxproj" on node 1 (default targets).
+        Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b96bke\\cmTC_43a18.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_fe039.dir\\Debug\\".
+          Creating directory "cmTC_43a18.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-he46u5\\Debug\\".
-          Creating directory "cmTC_fe039.dir\\Debug\\cmTC_fe039.tlog\\".
+          Creating directory "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b96bke\\Debug\\".
+          Creating directory "cmTC_43a18.dir\\Debug\\cmTC_43a18.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_fe039.dir\\Debug\\cmTC_fe039.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_fe039.dir\\Debug\\cmTC_fe039.tlog\\unsuccessfulbuild".
+          Creating "cmTC_43a18.dir\\Debug\\cmTC_43a18.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_43a18.dir\\Debug\\cmTC_43a18.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fe039.dir\\Debug\\\\" /Fd"cmTC_fe039.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_43a18.dir\\Debug\\\\" /Fd"cmTC_43a18.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35216 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fe039.dir\\Debug\\\\" /Fd"cmTC_fe039.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_43a18.dir\\Debug\\\\" /Fd"cmTC_43a18.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-he46u5\\Debug\\cmTC_fe039.exe" /INCREMENTAL /ILK:"cmTC_fe039.dir\\Debug\\cmTC_fe039.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-he46u5/Debug/cmTC_fe039.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-he46u5/Debug/cmTC_fe039.lib" /MACHINE:X64  /machine:x64 cmTC_fe039.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_fe039.vcxproj -> D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-he46u5\\Debug\\cmTC_fe039.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b96bke\\Debug\\cmTC_43a18.exe" /INCREMENTAL /ILK:"cmTC_43a18.dir\\Debug\\cmTC_43a18.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-b96bke/Debug/cmTC_43a18.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-b96bke/Debug/cmTC_43a18.lib" /MACHINE:X64  /machine:x64 cmTC_43a18.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_43a18.vcxproj -> D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b96bke\\Debug\\cmTC_43a18.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_fe039.dir\\Debug\\cmTC_fe039.tlog\\unsuccessfulbuild".
-          Touching "cmTC_fe039.dir\\Debug\\cmTC_fe039.tlog\\cmTC_fe039.lastbuildstate".
-        Done Building Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-he46u5\\cmTC_fe039.vcxproj" (default targets).
+          Deleting file "cmTC_43a18.dir\\Debug\\cmTC_43a18.tlog\\unsuccessfulbuild".
+          Touching "cmTC_43a18.dir\\Debug\\cmTC_43a18.tlog\\cmTC_43a18.lastbuildstate".
+        Done Building Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-b96bke\\cmTC_43a18.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.54
+        Time Elapsed 00:00:00.55
         
       exitCode: 0
   -
@@ -233,8 +233,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-hfsigf"
-      binary: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-hfsigf"
+      source: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-e8ofuw"
+      binary: "D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-e8ofuw"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Ob0 /Od /RTC1"
@@ -249,40 +249,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-hfsigf'
+        Change Dir: 'D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-e8ofuw'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8ec02.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_04493.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.23+b0019275e for .NET Framework
-        Build started 21/09/2025 16:00:42.
+        Build started 21/09/2025 16:31:39.
         
-        Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hfsigf\\cmTC_8ec02.vcxproj" on node 1 (default targets).
+        Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e8ofuw\\cmTC_04493.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_8ec02.dir\\Debug\\".
+          Creating directory "cmTC_04493.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hfsigf\\Debug\\".
-          Creating directory "cmTC_8ec02.dir\\Debug\\cmTC_8ec02.tlog\\".
+          Creating directory "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e8ofuw\\Debug\\".
+          Creating directory "cmTC_04493.dir\\Debug\\cmTC_04493.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_8ec02.dir\\Debug\\cmTC_8ec02.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_8ec02.dir\\Debug\\cmTC_8ec02.tlog\\unsuccessfulbuild".
+          Creating "cmTC_04493.dir\\Debug\\cmTC_04493.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_04493.dir\\Debug\\cmTC_04493.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8ec02.dir\\Debug\\\\" /Fd"cmTC_8ec02.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_04493.dir\\Debug\\\\" /Fd"cmTC_04493.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35216 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_8ec02.dir\\Debug\\\\" /Fd"cmTC_8ec02.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_04493.dir\\Debug\\\\" /Fd"cmTC_04493.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.0\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hfsigf\\Debug\\cmTC_8ec02.exe" /INCREMENTAL /ILK:"cmTC_8ec02.dir\\Debug\\cmTC_8ec02.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-hfsigf/Debug/cmTC_8ec02.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-hfsigf/Debug/cmTC_8ec02.lib" /MACHINE:X64  /machine:x64 cmTC_8ec02.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_8ec02.vcxproj -> D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hfsigf\\Debug\\cmTC_8ec02.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e8ofuw\\Debug\\cmTC_04493.exe" /INCREMENTAL /ILK:"cmTC_04493.dir\\Debug\\cmTC_04493.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-e8ofuw/Debug/cmTC_04493.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:/Visual Studio Projects/chemical-market-analyzer/build/CMakeFiles/CMakeScratch/TryCompile-e8ofuw/Debug/cmTC_04493.lib" /MACHINE:X64  /machine:x64 cmTC_04493.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_04493.vcxproj -> D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e8ofuw\\Debug\\cmTC_04493.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_8ec02.dir\\Debug\\cmTC_8ec02.tlog\\unsuccessfulbuild".
-          Touching "cmTC_8ec02.dir\\Debug\\cmTC_8ec02.tlog\\cmTC_8ec02.lastbuildstate".
-        Done Building Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-hfsigf\\cmTC_8ec02.vcxproj" (default targets).
+          Deleting file "cmTC_04493.dir\\Debug\\cmTC_04493.tlog\\unsuccessfulbuild".
+          Touching "cmTC_04493.dir\\Debug\\cmTC_04493.tlog\\cmTC_04493.lastbuildstate".
+        Done Building Project "D:\\Visual Studio Projects\\chemical-market-analyzer\\build\\CMakeFiles\\CMakeScratch\\TryCompile-e8ofuw\\cmTC_04493.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:00.53
+        Time Elapsed 00:00:00.55
         
       exitCode: 0
   -
