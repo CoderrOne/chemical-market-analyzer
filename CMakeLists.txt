@@ -22,10 +22,13 @@ if(NOT CURL_FOUND)
     message(FATAL_ERROR "CURL not found. Please ensure it's installed via vcpkg: vcpkg install curl:x64-windows")
 endif()
 
+find_package(nlohmann_json CONFIG REQUIRED)
+
 add_executable(chemical-market-analyzer "src/main.cpp")		
 
 # Link curl with improved target specification
 target_link_libraries(chemical-market-analyzer PRIVATE CURL::libcurl)
+target_link_libraries(chemical-market-analyzer PRIVATE nlohmann_json::nlohmann_json)
 
 if (CMAKE_VERSION VERSION_GREATER 3.12)
   set_property(TARGET chemical-market-analyzer PROPERTY CXX_STANDARD 20)
